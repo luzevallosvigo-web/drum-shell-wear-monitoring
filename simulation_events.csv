@@ -1,0 +1,119 @@
+event,start,end,details
+ore_campaign,2026-02-02 00:00,2026-02-09 14:05,coarse
+wet_period,2026-02-06 04:10,2026-02-09 01:15,high humidity
+unplanned_stop,2026-02-07 05:55,2026-02-07 09:55,245 min
+feed_interruption,2026-02-08 18:20,2026-02-08 19:35,drum runs empty
+ore_campaign,2026-02-09 14:10,2026-02-17 20:55,fine
+unplanned_stop,2026-02-09 15:15,2026-02-09 22:20,430 min
+rows_duplicated,2026-02-09 16:55,2026-02-09 17:40,10 rows re-sent after the gap
+rows_lost,2026-02-09 17:45,2026-02-09 19:50,logger buffer lost
+wet_period,2026-02-10 02:05,2026-02-11 07:55,high humidity
+unplanned_stop,2026-02-13 06:55,2026-02-13 08:35,105 min
+rows_duplicated,2026-02-15 00:05,2026-02-15 00:30,6 rows re-sent after the gap
+rows_lost,2026-02-15 00:35,2026-02-15 02:45,logger buffer lost
+wet_period,2026-02-15 15:45,2026-02-18 11:00,high humidity
+material_buildup,2026-02-16 06:45,2026-02-16 12:55,0.55 mm layer
+laser_error_code,2026-02-16 19:50,2026-02-16 20:35,laser columns = -999
+material_buildup,2026-02-17 01:15,2026-02-17 03:35,0.33 mm layer
+material_buildup,2026-02-17 07:30,2026-02-17 09:15,0.75 mm layer
+ore_campaign,2026-02-17 21:00,2026-02-23 18:40,slag
+feed_interruption,2026-02-18 18:00,2026-02-18 18:25,drum runs empty
+unplanned_stop,2026-02-20 11:30,2026-02-20 15:55,270 min
+feed_interruption,2026-02-22 11:45,2026-02-22 12:15,drum runs empty
+ore_campaign,2026-02-23 18:45,2026-03-04 02:35,fine
+unplanned_stop,2026-02-25 07:05,2026-02-25 13:10,370 min
+unplanned_stop,2026-03-01 05:20,2026-03-01 09:00,225 min
+ore_campaign,2026-03-04 02:40,2026-03-13 19:05,coarse
+feed_interruption,2026-03-04 08:30,2026-03-04 09:10,drum runs empty
+laser_error_code,2026-03-06 08:45,2026-03-06 10:40,laser columns = -999
+wet_period,2026-03-07 12:00,2026-03-08 19:25,high humidity
+feed_interruption,2026-03-10 02:55,2026-03-10 03:40,drum runs empty
+rows_duplicated,2026-03-11 13:40,2026-03-11 14:15,8 rows re-sent after the gap
+rows_lost,2026-03-11 14:20,2026-03-11 17:10,logger buffer lost
+ore_campaign,2026-03-13 19:10,2026-03-21 20:30,fine
+laser_frozen,2026-03-13 20:20,2026-03-13 22:15,laser columns repeat one value
+date_format_changed,2026-03-14 00:00,2026-03-27 23:55,dd.mm.yyyy HH:MM:SS
+feed_interruption,2026-03-14 08:10,2026-03-14 09:25,drum runs empty
+wet_period,2026-03-15 07:40,2026-03-17 22:15,high humidity
+laser_error_code,2026-03-15 11:55,2026-03-15 12:45,laser columns = -999
+material_buildup,2026-03-16 03:10,2026-03-16 04:55,0.28 mm layer
+material_buildup,2026-03-16 09:45,2026-03-16 11:25,0.71 mm layer
+unplanned_stop,2026-03-16 10:40,2026-03-16 16:15,340 min
+material_buildup,2026-03-17 00:35,2026-03-17 04:05,0.47 mm layer
+laser_error_code,2026-03-17 12:00,2026-03-17 13:55,laser columns = -999
+vibration_missing,2026-03-17 15:35,2026-03-17 23:40,empty cells
+unplanned_stop,2026-03-18 09:55,2026-03-18 14:00,250 min
+laser_frozen,2026-03-20 05:25,2026-03-20 07:00,laser columns repeat one value
+ore_campaign,2026-03-21 20:35,2026-03-31 19:05,coarse
+window_cleaning_skipped,2026-03-24 06:00,2026-03-24 06:00,dirt keeps building up
+bearing_deterioration,2026-03-26 00:00,2026-04-14 05:55,"vibration grows up to about 5x, fixed at major maintenance"
+feed_interruption,2026-03-26 07:05,2026-03-26 07:35,drum runs empty
+unplanned_stop,2026-03-26 13:10,2026-03-26 18:25,320 min
+unplanned_stop,2026-03-27 02:35,2026-03-27 07:00,270 min
+vibration_missing,2026-03-27 04:05,2026-03-27 06:15,empty cells
+unplanned_stop,2026-03-27 21:35,2026-03-28 04:15,405 min
+feed_interruption,2026-03-28 21:35,2026-03-28 21:55,drum runs empty
+unplanned_stop,2026-03-29 23:15,2026-03-30 02:15,185 min
+laser_error_code,2026-03-31 01:35,2026-03-31 04:15,laser columns = -999
+wet_period,2026-03-31 05:10,2026-04-02 21:50,high humidity
+ore_campaign,2026-03-31 19:10,2026-04-07 23:30,slag
+ore_campaign,2026-04-07 23:35,2026-04-18 14:40,coarse
+vibration_missing,2026-04-08 07:00,2026-04-08 11:55,empty cells
+unplanned_stop,2026-04-09 13:05,2026-04-09 13:55,55 min
+sensor_remounted,2026-04-14 06:00,2026-04-14 06:00,+0.35 mm offset from here on
+feed_interruption,2026-04-15 01:15,2026-04-15 02:15,drum runs empty
+wet_period,2026-04-15 02:40,2026-04-16 06:40,high humidity
+feed_interruption,2026-04-16 06:00,2026-04-16 07:15,drum runs empty
+ore_campaign,2026-04-18 14:45,2026-04-26 07:45,slag
+unplanned_stop,2026-04-18 18:00,2026-04-18 20:20,145 min
+unplanned_stop,2026-04-20 02:35,2026-04-20 08:50,380 min
+wet_period,2026-04-21 08:25,2026-04-22 22:30,high humidity
+unplanned_stop,2026-04-24 19:20,2026-04-25 01:15,360 min
+ore_campaign,2026-04-26 07:50,2026-05-06 02:20,coarse
+unplanned_stop,2026-04-26 16:00,2026-04-26 16:50,55 min
+laser_frozen,2026-04-27 02:50,2026-04-27 05:35,laser columns repeat one value
+window_cleaning_skipped,2026-04-28 06:00,2026-04-28 06:00,dirt keeps building up
+wet_period,2026-04-29 06:20,2026-05-01 19:25,high humidity
+shell_temp_in_fahrenheit,2026-05-01 01:00,2026-05-08 00:55,"values are degF, column says degC"
+unplanned_stop,2026-05-02 03:35,2026-05-02 10:55,445 min
+rows_duplicated,2026-05-03 10:00,2026-05-03 10:50,11 rows re-sent after the gap
+rows_lost,2026-05-03 10:55,2026-05-03 14:05,logger buffer lost
+wet_period,2026-05-03 11:25,2026-05-06 04:20,high humidity
+unplanned_stop,2026-05-03 22:20,2026-05-03 23:45,90 min
+unplanned_stop,2026-05-04 03:45,2026-05-04 09:40,360 min
+window_cleaning_skipped,2026-05-05 06:00,2026-05-05 06:00,dirt keeps building up
+unplanned_stop,2026-05-05 20:30,2026-05-05 21:20,55 min
+ore_campaign,2026-05-06 02:25,2026-05-12 01:45,fine
+unplanned_stop,2026-05-06 05:40,2026-05-06 11:05,330 min
+unplanned_stop,2026-05-07 03:25,2026-05-07 09:10,350 min
+laser_error_code,2026-05-07 22:10,2026-05-07 22:40,laser columns = -999
+power_outage_rows_missing,2026-05-10 08:15,2026-05-11 14:10,plant stopped and no rows logged
+unplanned_stop,2026-05-11 14:55,2026-05-11 18:10,200 min
+ore_campaign,2026-05-12 01:50,2026-05-17 02:55,slag
+vibration_stuck_zero,2026-05-12 18:35,2026-05-12 23:30,reads 0.0
+laser_error_code,2026-05-12 22:05,2026-05-12 23:00,laser columns = -999
+wet_period,2026-05-15 08:00,2026-05-16 16:30,high humidity
+unplanned_stop,2026-05-15 21:45,2026-05-16 01:15,215 min
+feed_interruption,2026-05-17 02:40,2026-05-17 03:30,drum runs empty
+ore_campaign,2026-05-17 03:00,2026-05-27 15:05,fine
+feed_interruption,2026-05-17 10:25,2026-05-17 10:40,drum runs empty
+rows_duplicated,2026-05-19 11:30,2026-05-19 12:00,7 rows re-sent after the gap
+rows_lost,2026-05-19 12:05,2026-05-19 14:25,logger buffer lost
+unplanned_stop,2026-05-20 01:00,2026-05-20 04:35,220 min
+feed_interruption,2026-05-21 07:30,2026-05-21 08:45,drum runs empty
+wet_period,2026-05-21 09:55,2026-05-23 14:15,high humidity
+rows_duplicated,2026-05-21 12:05,2026-05-21 12:55,11 rows re-sent after the gap
+rows_lost,2026-05-21 13:00,2026-05-21 15:25,logger buffer lost
+material_buildup,2026-05-22 01:00,2026-05-22 03:45,0.50 mm layer
+material_buildup,2026-05-22 08:10,2026-05-22 09:20,0.47 mm layer
+material_buildup,2026-05-22 12:55,2026-05-22 14:30,0.60 mm layer
+material_buildup,2026-05-22 23:15,2026-05-23 00:25,0.78 mm layer
+unplanned_stop,2026-05-24 03:35,2026-05-24 05:10,100 min
+ore_campaign,2026-05-27 15:10,2026-06-01 23:55,slag
+laser_frozen,2026-05-27 19:00,2026-05-27 21:45,laser columns repeat one value
+unplanned_stop,2026-05-28 23:25,2026-05-29 02:25,185 min
+feed_interruption,2026-05-29 03:30,2026-05-29 03:45,drum runs empty
+unplanned_stop,2026-05-29 10:50,2026-05-29 11:30,45 min
+unplanned_stop,2026-05-29 21:35,2026-05-30 01:50,260 min
+feed_interruption,2026-05-31 04:05,2026-05-31 05:15,drum runs empty
+laser_error_code,2026-06-01 21:25,2026-06-01 23:30,laser columns = -999
